@@ -1,0 +1,218 @@
+﻿
+@model NguyenVanLinh_22115053122225_MVC.Models.CombinedViewModel
+@{
+    ViewBag.Title = "Giỏ hàng ";
+}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Electronix Store</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+    <link rel="stylesheet" type="text/css" href="~/Content/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="~/electronix/CSS/style.css" />
+    <!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="iecss.css" />
+    <![endif]-->
+    <script type="text/javascript" src="~/electronix/js/boxOver.js"></script>
+</head>
+<body>
+    <div id="main_container">
+
+
+        <div class="top_bar">
+            <div class="top_search">
+                <div class="search_text"><a href="#">Advanced Search</a></div>
+                <input type="text" class="search_input" name="search" />
+                <input type="image" src="~/electronix/images/search.gif" class="search_bt" />
+            </div>
+            <div class="languages">
+                <div class="lang_text">Languages:</div>
+                <a href="#" class="lang"><img src="~/electronix/images/en.gif" alt="" border="0" /></a> <a href="#" class="lang"><img src="~/electronix/images/de.gif" alt="" border="0" /></a>
+            </div>
+        </div>
+        <div id="header">
+            <div id="logo"> <a href="#"><img src="~/electronix/images/logo.png" alt="" border="0" width="237" height="140" /></a> </div>
+            <div class="oferte_content">
+                <div class="top_divider"><img src="~/electronix/images/header_divider.png" alt="" width="1" height="164" /></div>
+                <div class="oferta">
+                    <div class="oferta_content">
+                        <img src="~/electronix/images/laptop.png" width="94" height="92" alt="" border="0" class="oferta_img" />
+                        <div class="oferta_details">
+                            <div class="oferta_title" style="
+                                margin-top: 20px;
+                                font-size: 22px;
+                                text-size-adjust: 30px;
+                            ">Nguyễn Văn Linh - 22115053122225</div>
+                            <div class="oferta_text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </div>
+                            <a href="details.html" class="details">details</a>
+                        </div>
+                    </div>
+                    <div class="oferta_pagination"> <span class="current">1</span> <a href="#">2</a> <a href="#">3</a> <a href="#">4</a> <a href="#">5</a> </div>
+                </div>
+                <div class="top_divider"><img src="~/electronix/images/header_divider.png" alt="" width="1" height="164" /></div>
+            </div>
+            <!-- end of oferte_content-->
+        </div>
+        <div id="main_content">
+            <div id="menu_tab">
+                <div class="left_menu_corner"></div>
+                <ul class="menu">
+                    <li><a href="#" class="nav1"> Home</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" class="nav2">Products</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" class="nav3">Specials</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" class="nav4">My account</a></li>
+                    <li class="divider"></li>
+                    <li class="odd">@Html.ActionLink("Giỏ hàng của bạn", "GioHang", new { id = 1 })</li>
+                    <li class="divider"></li>
+
+                </ul>
+                <div class="right_menu_corner"></div>
+            </div>
+            <!-- end of menu tab -->
+            <div class="crumb_navigation"> Navigation: <span class="current">Home</span> </div>
+            <div class="left_content">
+                <div class="title_box">Categories</div>
+                <ul class="left_menu">
+                    <li class="new">@Html.ActionLink("Tất cả Sản phẩm", "Index")</li>
+
+                    @{
+                        int count = 1;
+                    }
+                    @{
+                        foreach (var item in Model.dsDanhMuc)
+                        {
+
+                            if (count % 2 == 0)
+                            {
+                                <li class="odd">@Html.ActionLink(@item.TenDM, "pageDanhSachSanPham", new { id = item.MaDM })</li>
+                                count++;
+                            }
+                            else
+                            {
+                                <li class="even">@Html.ActionLink(@item.TenDM, "pageDanhSachSanPham", new { id = item.MaDM })</li>
+                                count++;
+
+
+                            }
+                        }
+                    }
+                </ul>
+                <div class="title_box">Special Products</div>
+                <div class="border_box">
+                    <div class="product_title"><a href="details.html">Motorola 156 MX-VL</a></div>
+                    <div class="product_img"><a href="details.html"><img src="~/electronix/images/laptop.png" alt="" border="0" /></a></div>
+                    <div class="prod_price"><span class="reduce">350$</span> <span class="price">270$</span></div>
+                </div>
+                <div class="title_box">Newsletter</div>
+                <div class="border_box">
+                    <input type="text" name="newsletter" class="newsletter_input" value="your email" />
+                    <a href="#" class="join">join</a>
+                </div>
+                <div class="banner_adds"> <a href="#"><img src="~/electronix/images/bann2.jpg" alt="" border="0" /></a> </div>
+            </div>
+            <!-- end of left content -->
+            <div class="center_content" style="margin-top:50px">
+                <table class="table table-striped table-bordered">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Mã Thiết Bị</th>
+                            <th>Tên Thiết Bị</th>
+                            <th>Đơn Giá</th>
+                            <th>Số Lượng</th>
+                            <th>Mô Tả</th>
+                            <th>Hình Ảnh</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.dsHoaByID)
+                        {
+                            <tr>
+                                <td>@item.MaH</td>
+                                <td>
+                                    @Html.ActionLink(item.Ten, "pageChiTietSanPham", new { id = item.MaH })
+                                </td>
+                                <td>@Html.DisplayFor(modelItem => item.Dongia) vnđ</td>
+                                <td>@item.Soluong</td>
+                                <td>@item.MoTa</td>
+                                <td>
+                                    <img src="~/electronix/images/@item.Hinhanh" alt="" style="width: 150px; height: 150px" class="img-thumbnail" />
+                                </td>
+                                <td>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="checkbox_@item.MaH">
+                                        <label class="form-check-label" for="checkbox_@item.MaH"></label>
+                                    </div>
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <p class="btn btn-primary">Hủy đơn hàng</p>
+            </div>
+
+
+            <!-- end of center content -->
+            <div class="right_content">
+                <div class="container d-flex justify-content-center align-items-center vh-100">
+                    <div class="card p-4 shadow-sm" style="width: 100%; max-width: 400px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+                        <h2 class="text-center mb-4" style="font-weight: bold; color: #343a40;">Login</h2>
+
+                        <!-- Specify controller action and method -->
+                        <form asp-action="Login" asp-controller="User" method="post">
+                            <!-- Username Field -->
+                            <div class="mb-3">
+                                <label for="username" class="form-label" style="color: #6c757d; font-weight: 500;">Username</label>
+                                <input type="text" class="form-control" name="UserName" placeholder="Enter your username" required=required
+                                       style="border-radius: 8px; border: 1px solid #ced4da; padding: 10px; box-shadow: none;" />
+                            </div>
+
+                            <!-- Password Field -->
+                            <div class="mb-3">
+                                <label for="password" class="form-label" style="color: #6c757d; font-weight: 500;">Password</label>
+                                <input type="password" class="form-control" name="Password" placeholder="Enter your password" required=required
+                                       style="border-radius: 8px; border: 1px solid #ced4da; padding: 10px; box-shadow: none;" />
+                            </div>
+
+                            <!-- Remember Me Checkbox -->
+                            <div class="form-check mb-3">
+                                <input type="checkbox" class="form-check-input" name="RememberMe" />
+                                <label class="form-check-label" for="rememberMe" style="color: #6c757d;">Remember me</label>
+                            </div>
+
+                            <!-- Login Button -->
+                            <div class="d-grid">
+                                <button type="submit" class="btn btn-primary" style="border-radius: 8px; padding: 10px; font-weight: 600;">Login</button>
+                            </div>
+
+                            <!-- Forgot Password Link -->
+                            <div class="text-center mt-3">
+                                <a href="#" class="text-decoration-none" style="color: #007bff;">Forgot your password?</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+
+            </div>
+            <!-- end of right content -->
+        </div>
+        <!-- end of main content -->
+        <div class="footer">
+            <div class="left_footer"> <img src="~/electronix/images/footer_logo.png" alt="" width="170" height="49" /> </div>
+            <div class="center_footer">
+                Template name. All Rights Reserved 2008<br />
+                <a href="http://csscreme.com"><img src="~/electronix/images/csscreme.jpg" alt="csscreme" border="0" /></a><br />
+                <img src="~/electronix/images/payment.gif" alt="" />
+            </div>
+            <div class="right_footer"> <a href="#">home</a> <a href="#">about</a> <a href="#">sitemap</a> <a href="#">rss</a> <a href="contact.html">contact us</a> </div>
+        </div>
+    </div>
+    <!-- end of main_container -->
+</body>
+</html>
+

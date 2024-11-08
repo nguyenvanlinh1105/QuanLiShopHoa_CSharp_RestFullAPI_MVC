@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Migrations\\20241105233935_Database_Update_toUser_GioHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenVanLinh_22115053122225\\Migrations\\20241105233935_Database_Update_toUser_GioHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\data\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\data\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\controllers\\hoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\controllers\\hoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\data\\hoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\data\\hoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\data\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\data\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Migrations\\20241105232119_Database_Update_toUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenVanLinh_22115053122225\\Migrations\\20241105232119_Database_Update_toUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\controllers\\danhmuchoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\controllers\\danhmuchoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\data\\danhmuchoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\data\\danhmuchoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|d:\\124_nam_2024_2025\\hoa\\nguyenvanlinh_22115053122225_api\\nguyenvanlinh_22115053122225\\nguyenvanlinh_22115053122225\\migrations\\20241105131625_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD01650-9527-4F9E-8ACD-11556F8DDEF9}|NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj|solutionrelative:nguyenvanlinh_22115053122225\\migrations\\20241105131625_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241105233935_Database_Update_toUser_GioHang.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Migrations\\20241105233935_Database_Update_toUser_GioHang.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Migrations\\20241105233935_Database_Update_toUser_GioHang.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Migrations\\20241105233935_Database_Update_toUser_GioHang.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Migrations\\20241105233935_Database_Update_toUser_GioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:39:35.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Controllers\\UserController.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:37:12.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Controllers\\GioHangController.cs*",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Controllers\\GioHangController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:36:43.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241105232119_Database_Update_toUser.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Migrations\\20241105232119_Database_Update_toUser.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Migrations\\20241105232119_Database_Update_toUser.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Migrations\\20241105232119_Database_Update_toUser.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Migrations\\20241105232119_Database_Update_toUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:21:20.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Data\\GioHang.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Data\\GioHang.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Data\\GioHang.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Data\\GioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:19:18.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Data\\User.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Data\\User.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Data\\User.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:18:06.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DanhMucHoaController.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Controllers\\DanhMucHoaController.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Controllers\\DanhMucHoaController.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Controllers\\DanhMucHoaController.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Controllers\\DanhMucHoaController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:24:37.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoaController.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Controllers\\HoaController.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Controllers\\HoaController.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Controllers\\HoaController.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Controllers\\HoaController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:18:34.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241105131625_Database.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Migrations\\20241105131625_Database.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Migrations\\20241105131625_Database.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Migrations\\20241105131625_Database.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Migrations\\20241105131625_Database.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:16:25.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hoa.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Data\\Hoa.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Data\\Hoa.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Data\\Hoa.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Data\\Hoa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:13:41.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DanhMucHoa.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Data\\DanhMucHoa.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Data\\DanhMucHoa.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Data\\DanhMucHoa.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Data\\DanhMucHoa.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:12:35.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\appsettings.json",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\appsettings.json",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\appsettings.json",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T03:05:18.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Startup.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Startup.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Startup.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Startup.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:59:02.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NguyenVanLinh_22115053122225.csproj",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T02:28:42.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebDbContext.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Data\\WebDbContext.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Data\\WebDbContext.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Data\\WebDbContext.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Data\\WebDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:27:39.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenVanLinh_22115053122225\\Program.cs",
+              "ToolTip": "D:\\124_Nam_2024_2025\\Hoa\\NguyenVanLinh_22115053122225_API\\NguyenVanLinh_22115053122225\\NguyenVanLinh_22115053122225\\Program.cs",
+              "RelativeToolTip": "NguyenVanLinh_22115053122225\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:26:41.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
